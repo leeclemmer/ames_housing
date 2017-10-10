@@ -8,4 +8,4 @@ We start by conducting some exploratory data analysis followed by processing the
 
 **[Read the notebook on Kaggle](https://www.kaggle.com/leeclemmer/exploratory-data-analysis-of-housing-in-ames-iowa/)**
 
-[Read the notebook on GitHub](https://github.com/leeclemmer/ames_housing/blob/master/notebooks/In-Depth%20Data%20Analysis%2C%20Processing%20and%20Regression%20of%20the%20Ames%2C%20IA%20Housing%20Dataset.ipynb)
+[Read the notebook on GitHub](https://github.com/leeclemmer/ames_housing/blob/master/notebooks/Exploratory%20Data%20Analysis%20of%20Housing%20in%20Ames%2C%20Iowa.ipynb)
