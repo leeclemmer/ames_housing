@@ -1,4 +1,4 @@
-# In-Depth Data Analysis, Processing and Regression of the Ames, IA Housing Dataset
+# Exploratory Data Analysis of Housing in Ames, Iowa
 
 Author: Lee Clemmer
 
